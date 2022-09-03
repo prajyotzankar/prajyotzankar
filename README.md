@@ -26,6 +26,7 @@
 
 </p>
 
+---
 
 #### :computer: Programming languages and tools: 
 <br>
@@ -49,20 +50,29 @@
  </div>
  <br>
  <br>
-  
+ 
+
+ 
+<div align="center" style="display:flex">  
 <a href="https://github.com/prajyotzankar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajyotzankar&show_icons=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
 </a>
 <a href="https://github.com/prajyotzankar">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyotzankar&theme=dark&hide_langs_below=0" />
 </a>
+ </div>
 
+<!--
+<div align="center" style="display:flex"> 
 <img align="center" src="https://leetcode-stats-six.vercel.app/api?username=zankarprajyot&theme=dark" alt="prajyotzankar" />
 </p>
 <br>
-
+</div>
+-->
 ---
+
 
 <p align="center">
   <img src="https://github.com/prajyotzankar/prajyotzankar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
