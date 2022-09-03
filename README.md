@@ -1,4 +1,5 @@
 
+  
 
 <h1 align="center">Hi 👋, I'm Prajyot Zankar</h1>
 <h3 align="center">A jack of multiple trades.</h3>
@@ -21,13 +22,44 @@
   <img src="https://img.shields.io/badge/Gmail-Email-d14836?style=plastic&logo=gmail" alt="prajyotzankar" />
 
 </p>
-<br><br>
+
+
+#### :computer: Programming languages and tools: 
+<br>
+
+<div align="center" style="display:flex">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mongodb-CB3837?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ </div>
+ 
+ <div align="center" style="display:flex">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-5E5C5C?style=for-the-badge&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-0095D5?&style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white"/>
+
+ </div>
+ <br>
+ <br>
   
-<p float="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajyotzankar&show_icons=true&locale=en&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="prajyotzankar" />
+<a href="https://github.com/prajyotzankar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajyotzankar&show_icons=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
+</a>
+<a href="https://github.com/prajyotzankar">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyotzankar&theme=dark&hide_langs_below=0" />
+</a>
 
 <img align="center" src="https://leetcode-stats-six.vercel.app/api?username=zankarprajyot&theme=dark" alt="prajyotzankar" />
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajyotzankar&show_icons=true&locale=en&layout=compact" alt="prajyotzankar" /></p>
+---
+
+<p align="center">
+  <img src="https://github.com/prajyotzankar/prajyotzankar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
