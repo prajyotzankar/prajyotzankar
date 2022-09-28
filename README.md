@@ -55,10 +55,10 @@
  
 <div align="center" style="display:flex">  
 <a href="https://github.com/prajyotzankar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajyotzankar&show_icons=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajyotzankar&show_icons=true&hide_border=true&theme=github_dark"/>
 </a>
 <a href="https://github.com/prajyotzankar">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyotzankar&theme=dark&hide_langs_below=0" />
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyotzankar&theme=github_dark&hide_langs_below=0&hide_border=true" />
 </a>
  </div>
 
