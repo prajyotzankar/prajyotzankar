@@ -53,7 +53,7 @@
 <br>
   
  ---
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="350"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300"/>
   
 <div align="left" style="display:flex">  
   <a href="https://github.com/prajyotzankar">
